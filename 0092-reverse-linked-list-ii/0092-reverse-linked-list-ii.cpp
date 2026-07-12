@@ -40,8 +40,9 @@ public:
             head->next = curr;
             head = prev;
         } else {
+            before->next->next = curr;
             before->next = prev;
-            temp->next = curr;
+            
         }
         return head;
     }
