@@ -20,29 +20,27 @@ public:
         ListNode* before = NULL;
         ListNode* temp = head;
         int position = 1;
-            while (position < left) {
-                before = temp;
-                temp = temp->next;
-                position++;
-                
-            }
-            int times = right - left + 1;
-            ListNode* curr = temp;
-            ListNode* prev = NULL;
-            while (times--) {
-                ListNode* temp = curr->next;
-                curr->next = prev;
-                prev = curr;
-                curr = temp;
-            }
-        
+        while (position < left) {
+            before = temp;
+            temp = temp->next;
+            position++;
+        }
+        int times = right - left + 1;
+        ListNode* curr = temp;
+        ListNode* prev = NULL;
+        while (times--) {
+            ListNode* temp = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = temp;
+        }
+
         if (before == NULL) {
-            head->next = curr;
-            head = prev;
+            temp->next = curr;
+            return prev;
         } else {
             before->next->next = curr;
             before->next = prev;
-            
         }
         return head;
     }
