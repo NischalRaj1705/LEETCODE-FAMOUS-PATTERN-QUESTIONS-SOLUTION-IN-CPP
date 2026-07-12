@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        if (head == NULL) {
+        if (head == NULL||k==1) {
             return head;
         }
         ListNode* res = NULL; ListNode* left = head;
@@ -48,9 +48,9 @@ public:
                 if (prevleft) {
                     prevleft->next = left;
                 }
-                if (res == NULL) {
-                    res = left;
-                }
+                // if (res == NULL) {
+                //     res = left;
+                // }
                 break;
             }
         }
