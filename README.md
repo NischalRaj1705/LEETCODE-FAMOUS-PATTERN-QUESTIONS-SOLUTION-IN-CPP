@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0066-plus-one) |
 | [0633-sum-of-square-numbers](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0633-sum-of-square-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
