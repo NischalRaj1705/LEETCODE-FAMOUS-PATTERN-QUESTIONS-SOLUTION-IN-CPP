@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0075-sort-colors) |
 | [1004-max-consecutive-ones-iii](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
