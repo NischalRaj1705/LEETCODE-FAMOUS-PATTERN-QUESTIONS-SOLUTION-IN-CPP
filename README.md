@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0075-sort-colors) |
+| [0238-product-of-array-except-self](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0347-top-k-frequent-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
