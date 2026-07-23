@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0347-top-k-frequent-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/1004-max-consecutive-ones-iii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0036-valid-sudoku) |
+| [0217-contains-duplicate](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
