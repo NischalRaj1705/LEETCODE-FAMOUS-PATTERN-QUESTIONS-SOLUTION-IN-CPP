@@ -5,14 +5,16 @@ public:
         for (char ch : s) {
             if (ch == '{' || ch == '(' || ch == '[') {
                 st.push(ch);
-            }
-            else if (!st.empty() &&
-                (st.top() == '{' && ch == '}' || st.top() == '(' && ch == ')' ||
-                 st.top() == '[' && ch == ']')) {
+            } else if (!st.empty() && (st.top() == '{' && ch == '}' ||
+                                       st.top() == '(' && ch == ')' ||
+                                       st.top() == '[' && ch == ']')) {
                 st.pop();
-            } else
-                return false ;
+            }
+            else {
+            return false;
         }
+        }
+        
         return st.empty();
     }
 };
