@@ -8,25 +8,22 @@ public:
             cars.push_back({position[i], speed[i]});
         }
 
-        // Position descending order
         sort(cars.begin(), cars.end(), greater<pair<int, int>>());
 
-        int fleet = 0;
-        double lastTime = 0;
+        stack<double> st;
 
         for (auto car : cars) {
+
             double time = (double)(target - car.first) / car.second;
 
-            // New fleet
-            if (time > lastTime) {
-                fleet++;
-                lastTime = time;
+            if (st.empty() || time > st.top()) {
+                st.push(time);          // New Fleet
             }
-            // else:
+            // else
             // Current car catches the fleet ahead,
-            // so nothing changes.
+            // so don't push anything.
         }
 
-        return fleet;
+        return st.size();
     }
 };
