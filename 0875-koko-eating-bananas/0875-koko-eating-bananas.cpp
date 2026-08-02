@@ -2,11 +2,13 @@ class Solution {
 public:
     long long helper(vector<int>& piles, int mid) {
 
-        long long  hour = 0;
+        long long hour = 0;
 
-        for(int i = 0; i < piles.size(); i++) {
+        for (int i = 0; i < piles.size(); i++) {
 
-            hour += (piles[i] + mid - 1) / mid;
+            hour += (piles[i]) / mid;
+            if (piles[i] % mid != 0)
+                hour++;
         }
 
         return hour;
