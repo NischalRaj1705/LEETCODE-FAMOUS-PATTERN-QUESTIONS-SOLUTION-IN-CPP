@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0092-reverse-linked-list-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/NischalRaj1705/LEETCODE-FAMOUS-PATTERN-QUESTIONS-SOLUTION-IN-CPP/tree/master/0075-sort-colors) |
